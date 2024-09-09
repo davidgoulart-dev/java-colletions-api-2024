@@ -12,7 +12,6 @@ public class Livro {
         this.titulo = titulo;
         this.autor = autor;
         this.anoPublicacao = anoPublicacao;
-
     }
 
     public String getTitulo() {
